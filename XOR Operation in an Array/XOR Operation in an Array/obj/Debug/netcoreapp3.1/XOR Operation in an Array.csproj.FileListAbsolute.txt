@@ -1,0 +1,12 @@
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\obj\Debug\netcoreapp3.1\XOR Operation in an Array.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\obj\Debug\netcoreapp3.1\XOR Operation in an Array.AssemblyInfo.cs
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\obj\Debug\netcoreapp3.1\XOR Operation in an Array.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\bin\Debug\netcoreapp3.1\XOR Operation in an Array.exe
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\bin\Debug\netcoreapp3.1\XOR Operation in an Array.deps.json
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\bin\Debug\netcoreapp3.1\XOR Operation in an Array.runtimeconfig.json
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\bin\Debug\netcoreapp3.1\XOR Operation in an Array.runtimeconfig.dev.json
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\bin\Debug\netcoreapp3.1\XOR Operation in an Array.dll
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\bin\Debug\netcoreapp3.1\XOR Operation in an Array.pdb
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\obj\Debug\netcoreapp3.1\XOR Operation in an Array.dll
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\obj\Debug\netcoreapp3.1\XOR Operation in an Array.pdb
+D:\CSharp\Challenge\XOR Operation in an Array\XOR Operation in an Array\obj\Debug\netcoreapp3.1\XOR Operation in an Array.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Height Checker", "Height Checker\Height Checker.csproj", "{E7DCED1F-3DC6-437C-8D66-58AE54B7CADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DCED1F-3DC6-437C-8D66-58AE54B7CADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DCED1F-3DC6-437C-8D66-58AE54B7CADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DCED1F-3DC6-437C-8D66-58AE54B7CADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DCED1F-3DC6-437C-8D66-58AE54B7CADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464C2DE7-F1D2-432C-8E5D-12AB28535263}
+	EndGlobalSection
+EndGlobal

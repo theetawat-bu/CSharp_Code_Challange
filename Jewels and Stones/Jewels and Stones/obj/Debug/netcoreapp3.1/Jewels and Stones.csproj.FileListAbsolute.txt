@@ -1,0 +1,12 @@
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\bin\Debug\netcoreapp3.1\Jewels and Stones.exe
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\bin\Debug\netcoreapp3.1\Jewels and Stones.deps.json
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\bin\Debug\netcoreapp3.1\Jewels and Stones.runtimeconfig.json
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\bin\Debug\netcoreapp3.1\Jewels and Stones.runtimeconfig.dev.json
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\bin\Debug\netcoreapp3.1\Jewels and Stones.dll
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\bin\Debug\netcoreapp3.1\Jewels and Stones.pdb
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\obj\Debug\netcoreapp3.1\Jewels and Stones.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\obj\Debug\netcoreapp3.1\Jewels and Stones.AssemblyInfo.cs
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\obj\Debug\netcoreapp3.1\Jewels and Stones.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\obj\Debug\netcoreapp3.1\Jewels and Stones.dll
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\obj\Debug\netcoreapp3.1\Jewels and Stones.pdb
+D:\CSharp\Challenge\Jewels and Stones\Jewels and Stones\obj\Debug\netcoreapp3.1\Jewels and Stones.genruntimeconfig.cache

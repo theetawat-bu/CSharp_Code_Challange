@@ -1,0 +1,12 @@
+D:\CSharp\Challenge\Design Parking System\Design Parking System\bin\Debug\netcoreapp3.1\Design Parking System.exe
+D:\CSharp\Challenge\Design Parking System\Design Parking System\bin\Debug\netcoreapp3.1\Design Parking System.deps.json
+D:\CSharp\Challenge\Design Parking System\Design Parking System\bin\Debug\netcoreapp3.1\Design Parking System.runtimeconfig.json
+D:\CSharp\Challenge\Design Parking System\Design Parking System\bin\Debug\netcoreapp3.1\Design Parking System.runtimeconfig.dev.json
+D:\CSharp\Challenge\Design Parking System\Design Parking System\bin\Debug\netcoreapp3.1\Design Parking System.dll
+D:\CSharp\Challenge\Design Parking System\Design Parking System\bin\Debug\netcoreapp3.1\Design Parking System.pdb
+D:\CSharp\Challenge\Design Parking System\Design Parking System\obj\Debug\netcoreapp3.1\Design Parking System.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\Design Parking System\Design Parking System\obj\Debug\netcoreapp3.1\Design Parking System.AssemblyInfo.cs
+D:\CSharp\Challenge\Design Parking System\Design Parking System\obj\Debug\netcoreapp3.1\Design Parking System.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\Design Parking System\Design Parking System\obj\Debug\netcoreapp3.1\Design Parking System.dll
+D:\CSharp\Challenge\Design Parking System\Design Parking System\obj\Debug\netcoreapp3.1\Design Parking System.pdb
+D:\CSharp\Challenge\Design Parking System\Design Parking System\obj\Debug\netcoreapp3.1\Design Parking System.genruntimeconfig.cache

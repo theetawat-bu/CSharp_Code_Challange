@@ -1,0 +1,12 @@
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\bin\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.exe
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\bin\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.deps.json
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\bin\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.runtimeconfig.json
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\bin\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.runtimeconfig.dev.json
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\bin\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.dll
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\bin\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.pdb
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\obj\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\obj\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.AssemblyInfo.cs
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\obj\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\obj\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.dll
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\obj\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.pdb
+D:\CSharp\Challenge\Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits\obj\Debug\netcoreapp3.1\Find Numbers with Even Number of Digits.genruntimeconfig.cache

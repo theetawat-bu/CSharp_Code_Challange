@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Design Parking System/1.0.0": {
+        "runtime": {
+          "Design Parking System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Design Parking System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
