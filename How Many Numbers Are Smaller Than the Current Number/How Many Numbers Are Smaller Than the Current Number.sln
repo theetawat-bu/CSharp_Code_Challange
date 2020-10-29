@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How Many Numbers Are Smaller Than the Current Number", "How Many Numbers Are Smaller Than the Current Number\How Many Numbers Are Smaller Than the Current Number.csproj", "{95739335-77A4-4B2C-B40A-993C69AA69EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95739335-77A4-4B2C-B40A-993C69AA69EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95739335-77A4-4B2C-B40A-993C69AA69EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95739335-77A4-4B2C-B40A-993C69AA69EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95739335-77A4-4B2C-B40A-993C69AA69EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1726A7C-CA3B-4823-896C-3D664FD66312}
+	EndGlobalSection
+EndGlobal

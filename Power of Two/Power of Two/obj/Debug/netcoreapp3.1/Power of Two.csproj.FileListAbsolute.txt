@@ -1,0 +1,13 @@
+D:\CSharp\Challenge\Power of Two\Power of Two\bin\Debug\netcoreapp3.1\Power of Two.exe
+D:\CSharp\Challenge\Power of Two\Power of Two\bin\Debug\netcoreapp3.1\Power of Two.deps.json
+D:\CSharp\Challenge\Power of Two\Power of Two\bin\Debug\netcoreapp3.1\Power of Two.runtimeconfig.json
+D:\CSharp\Challenge\Power of Two\Power of Two\bin\Debug\netcoreapp3.1\Power of Two.runtimeconfig.dev.json
+D:\CSharp\Challenge\Power of Two\Power of Two\bin\Debug\netcoreapp3.1\Power of Two.dll
+D:\CSharp\Challenge\Power of Two\Power of Two\bin\Debug\netcoreapp3.1\Power of Two.pdb
+D:\CSharp\Challenge\Power of Two\Power of Two\obj\Debug\netcoreapp3.1\Power of Two.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\Power of Two\Power of Two\obj\Debug\netcoreapp3.1\Power of Two.AssemblyInfo.cs
+D:\CSharp\Challenge\Power of Two\Power of Two\obj\Debug\netcoreapp3.1\Power of Two.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\Power of Two\Power of Two\obj\Debug\netcoreapp3.1\Power of Two.dll
+D:\CSharp\Challenge\Power of Two\Power of Two\obj\Debug\netcoreapp3.1\Power of Two.pdb
+D:\CSharp\Challenge\Power of Two\Power of Two\obj\Debug\netcoreapp3.1\Power of Two.genruntimeconfig.cache
+D:\CSharp\Challenge\Power of Two\Power of Two\obj\Debug\netcoreapp3.1\Power of Two.csprojAssemblyReference.cache

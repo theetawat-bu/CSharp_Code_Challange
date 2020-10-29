@@ -1,0 +1,12 @@
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\obj\Debug\netcoreapp3.1\Number of Good Pairs.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\obj\Debug\netcoreapp3.1\Number of Good Pairs.AssemblyInfo.cs
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\obj\Debug\netcoreapp3.1\Number of Good Pairs.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\bin\Debug\netcoreapp3.1\Number of Good Pairs.exe
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\bin\Debug\netcoreapp3.1\Number of Good Pairs.deps.json
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\bin\Debug\netcoreapp3.1\Number of Good Pairs.runtimeconfig.json
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\bin\Debug\netcoreapp3.1\Number of Good Pairs.runtimeconfig.dev.json
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\bin\Debug\netcoreapp3.1\Number of Good Pairs.dll
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\bin\Debug\netcoreapp3.1\Number of Good Pairs.pdb
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\obj\Debug\netcoreapp3.1\Number of Good Pairs.dll
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\obj\Debug\netcoreapp3.1\Number of Good Pairs.pdb
+D:\CSharp\Challenge\Number of Good Pairs\Number of Good Pairs\obj\Debug\netcoreapp3.1\Number of Good Pairs.genruntimeconfig.cache

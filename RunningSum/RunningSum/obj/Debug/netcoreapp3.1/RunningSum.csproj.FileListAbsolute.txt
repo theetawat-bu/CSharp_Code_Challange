@@ -1,0 +1,12 @@
+D:\CSharp\Challenge\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.exe
+D:\CSharp\Challenge\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.deps.json
+D:\CSharp\Challenge\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.runtimeconfig.json
+D:\CSharp\Challenge\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.runtimeconfig.dev.json
+D:\CSharp\Challenge\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.dll
+D:\CSharp\Challenge\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.pdb
+D:\CSharp\Challenge\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.AssemblyInfo.cs
+D:\CSharp\Challenge\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.dll
+D:\CSharp\Challenge\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.pdb
+D:\CSharp\Challenge\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.genruntimeconfig.cache

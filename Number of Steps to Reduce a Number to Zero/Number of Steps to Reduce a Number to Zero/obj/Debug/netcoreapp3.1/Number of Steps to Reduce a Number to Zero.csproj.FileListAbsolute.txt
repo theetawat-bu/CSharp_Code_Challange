@@ -1,0 +1,13 @@
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\bin\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.exe
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\bin\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.deps.json
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\bin\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.runtimeconfig.json
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\bin\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.runtimeconfig.dev.json
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\bin\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.dll
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\bin\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.pdb
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\obj\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\obj\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.AssemblyInfo.cs
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\obj\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\obj\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.dll
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\obj\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.pdb
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\obj\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.genruntimeconfig.cache
+D:\CSharp\Challenge\Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero\obj\Debug\netcoreapp3.1\Number of Steps to Reduce a Number to Zero.csprojAssemblyReference.cache
