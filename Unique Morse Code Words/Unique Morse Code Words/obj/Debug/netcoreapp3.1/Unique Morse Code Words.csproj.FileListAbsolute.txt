@@ -1,0 +1,13 @@
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp3.1\Unique Morse Code Words.exe
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp3.1\Unique Morse Code Words.deps.json
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp3.1\Unique Morse Code Words.runtimeconfig.json
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp3.1\Unique Morse Code Words.runtimeconfig.dev.json
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp3.1\Unique Morse Code Words.dll
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp3.1\Unique Morse Code Words.pdb
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp3.1\Unique Morse Code Words.AssemblyInfoInputs.cache
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp3.1\Unique Morse Code Words.AssemblyInfo.cs
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp3.1\Unique Morse Code Words.csproj.CoreCompileInputs.cache
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp3.1\Unique Morse Code Words.dll
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp3.1\Unique Morse Code Words.pdb
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp3.1\Unique Morse Code Words.genruntimeconfig.cache
+D:\CSharp\Challenge\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp3.1\Unique Morse Code Words.csprojAssemblyReference.cache
